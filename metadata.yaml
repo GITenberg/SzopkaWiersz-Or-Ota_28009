@@ -1,0 +1,37 @@
+_repo: SzopkaWiersz-Or-Ota_28009
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Piotrowski, Antoni
+    birthdate: 1853
+    deathdate: 1924
+    gutenberg_agent_id: '33072'
+    url: http://www.gutenberg.org/2009/agents/33072
+covers:
+- cover_type: archival
+  image_path: 28009-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Oppman, Artur
+    alias: Or-Ot
+    birthdate: 1867
+    deathdate: 1932
+    gutenberg_agent_id: '33071'
+    url: http://www.gutenberg.org/2009/agents/33071
+    wikipedia: http://pl.wikipedia.org/wiki/Artur_Oppman
+description: ''
+gutenberg_issued: '2009-02-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28009'
+language: pl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s poetry'
+- !lcc 'PG'
+title: 'Szopka
+
+  Wiersz Or-Ota'
+url: http://www.gutenberg.org/ebooks/28009
