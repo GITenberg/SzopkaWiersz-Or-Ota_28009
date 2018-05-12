@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33071
     wikipedia: http://pl.wikipedia.org/wiki/Artur_Oppman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28009#SzopkaWiersz-Or-Ota
 gutenberg_issued: '2009-02-06'
 gutenberg_type: Text
 identifiers:
